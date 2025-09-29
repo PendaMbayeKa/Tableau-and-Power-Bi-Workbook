@@ -13,18 +13,24 @@ This project is a showcase of my data analytics and visualization skills using t
 
 ## 🌟 Project Outcome
 
-- Developed dynamic dashboards and reports to extract actionable insights from complex datasets.
-- Demonstrated the ability to turn raw data into compelling visual stories for data-driven decision making.
+- Developed dynamic dashboards and reports to extract actionable insights from excel datasets.
+- Demonstrated the ability to turn Can Cnraw data into compelling visual stories for data-driven decision making.
 - Enhanced business understanding through interactive visualizations and self-service analytics.
+  
+**Here is an example:**
+
+[This is the excel dataset for EMSI Job Change UK excel file.](https://b2wcompletetraining057.sharepoint.com/:x:/s/2025-08-18_C2_6_LCRCA_NECA_SYMCA_DATA/ETTq6BcjLohGmiZ9Yy3ZVHEBOF4_xgdyhES9k1OmZOnDSA?e=KU2wEy)
+[This is the transformation of the dataset visualised in different formats](https://public.tableau.com/app/profile/penda.mbaye.ka/viz/emsidataset/UK201-2014EmploymentDashboard]
+
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Tableau Desktop & Tableau Public**
+- **Tableau Public**
 - **Power BI Desktop & Power BI Service**
 - **Microsoft Excel**
-- 
+
 
 ---
 
