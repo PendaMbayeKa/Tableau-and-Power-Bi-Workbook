@@ -59,6 +59,7 @@ This project is a showcase of my data analytics and visualization skills using t
 ## 🤝 Let's Connect!
 
 If you are interested in collaborating or want to know more about my projects, feel free to connect with me on [GitHub](https://github.com/PendaMbayeKa) or reach out via LinkedIn!
+[My LinkedIN profile can be found here](https://www.linkedin.com/in/penda-mbaye-ka-2b2ba91b1/)
 
 ---
 
