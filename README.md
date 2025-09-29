@@ -54,4 +54,4 @@ If you are interested in collaborating or want to know more about my projects, f
 
 ---
 
-Thank you for visiting my Tableau and Power BI portfolio! 😊
+Thank you for visiting my Tableau and Power BI project! 😊
