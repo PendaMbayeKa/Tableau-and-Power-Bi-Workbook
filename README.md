@@ -1,6 +1,6 @@
-# Tableau-and-Power-Bi-Workbook
+# Tableau-and-Power-Bi-Project
 This Workbook has helped me understand tableau and create different visualisations for different data.
-# 📊 Tableau and Power BI Workbook
+# 📊 Tableau and Power BI Project
 
 Welcome to my **Tableau and Power BI Workbook** repository! 🚀
 
