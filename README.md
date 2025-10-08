@@ -14,6 +14,11 @@ Here's a screenshot as well.
 
 [This is a link to my visualisations dashboard on tableau public](https://public.tableau.com/app/profile/penda.mbaye.ka/vizzes)
 
+Here is a sneak peak of some of the work from my viz 🌟
+
+<img width="1101" height="619" alt="Screenshot 2025-10-08 222131" src="https://github.com/user-attachments/assets/2691b319-7bf4-4aa6-bc8c-6277ee6dec80" />
+
+
 ---
 
 ## 🌟 Project Outcome
