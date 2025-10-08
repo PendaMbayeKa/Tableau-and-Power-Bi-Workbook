@@ -7,6 +7,11 @@ Welcome to my **Tableau and Power BI Workbook** repository! 🚀
 This project is a showcase of my data analytics and visualization skills using two of the most powerful BI tools in the industry: **Tableau** and **Power BI**. Here, I present interactive dashboards, insightful analyses, and hands-on projects that reflect my journey in mastering data storytelling.
 [This is the link for my power bi workbook: Financial Report](https://app.powerbi.com/view?r=eyJrIjoiNDFlMGRjZGQtMmI1Ni00YTE5LTlkOTEtZjk0ZDQ0MjY4N2E3IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
+Here's a screenshot as well. 
+
+<img width="1423" height="754" alt="Screenshot 2025-10-08 221617" src="https://github.com/user-attachments/assets/a2c1bd31-f1ab-49a3-8e1d-55019ccfc157" />
+
+
 [This is a link to my visualisations dashboard on tableau public](https://public.tableau.com/app/profile/penda.mbaye.ka/vizzes)
 
 ---
